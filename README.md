@@ -44,3 +44,5 @@ Check the following links:
 [Swift Optionals](https://medium.com/@baljitKaurGoraya/optionals-in-swift-programming-language-7fb285c0c0bc)
 
 [Swift Tuples](https://medium.com/@baljitKaurGoraya/tuples-in-swift-programming-language-4f33cc09e498)
+
+[Swift Constants](https://medium.com/@baljitKaurGoraya/constants-in-swift-programming-language-34e1d57991ec)
