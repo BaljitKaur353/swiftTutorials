@@ -30,3 +30,17 @@ Overall, Swift has gained popularity among developers for its approachability, s
 If you want to connect with me on, Follow me on [medium](https://medium.com/@baljitKaurGoraya) 
 
 Check the following links:
+
+[Introduction to swift programming language](https://medium.com/@baljitKaurGoraya/introduction-to-swift-6dc362a735c6)
+
+[Swift Environment](https://medium.com/@baljitKaurGoraya/swift-environment-79577cee99c9)
+
+[Swift Basic Syntax](https://medium.com/@baljitKaurGoraya/basic-syntax-of-swift-programming-language-53d85decb288)
+
+[Swift Data Types](https://medium.com/@baljitKaurGoraya/swift-data-types-4c36518a5344)
+
+[Swift Variables](https://medium.com/@baljitKaurGoraya/variables-in-swift-programming-language-4f0f3c0473ea)
+
+[Swift Optionals](https://medium.com/@baljitKaurGoraya/optionals-in-swift-programming-language-7fb285c0c0bc)
+
+[Swift Tuples](https://medium.com/@baljitKaurGoraya/tuples-in-swift-programming-language-4f33cc09e498)
