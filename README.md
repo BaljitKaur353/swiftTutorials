@@ -46,3 +46,5 @@ Check the following links:
 [Swift Tuples](https://medium.com/@baljitKaurGoraya/tuples-in-swift-programming-language-4f33cc09e498)
 
 [Swift Constants](https://medium.com/@baljitKaurGoraya/constants-in-swift-programming-language-34e1d57991ec)
+
+[Swift Literals](https://medium.com/@baljitKaurGoraya/literals-in-swift-programming-language-8f64b5a48781)
