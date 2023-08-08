@@ -48,3 +48,5 @@ Check the following links:
 [Swift Constants](https://medium.com/@baljitKaurGoraya/constants-in-swift-programming-language-34e1d57991ec)
 
 [Swift Literals](https://medium.com/@baljitKaurGoraya/literals-in-swift-programming-language-8f64b5a48781)
+
+[Swift Operators](https://medium.com/@baljitKaurGoraya/operators-in-swift-programming-language-70fe442eb87)
