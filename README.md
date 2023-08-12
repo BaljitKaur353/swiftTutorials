@@ -54,3 +54,5 @@ Check the following links:
 [Swift Decision Making](https://medium.com/@baljitKaurGoraya/decision-making-in-swift-programming-language-6ee953314c2c)
 
 [Swift Loops](https://medium.com/@baljitKaurGoraya/loops-in-swift-programming-language-ab08002a4a3f)
+
+[Swift Strings](https://medium.com/@baljitKaurGoraya/strings-in-swift-programming-language-f9bae3f34db7)
