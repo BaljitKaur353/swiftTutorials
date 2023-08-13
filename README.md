@@ -56,3 +56,5 @@ Check the following links:
 [Swift Loops](https://medium.com/@baljitKaurGoraya/loops-in-swift-programming-language-ab08002a4a3f)
 
 [Swift Strings](https://medium.com/@baljitKaurGoraya/strings-in-swift-programming-language-f9bae3f34db7)
+
+[Swift Characters](https://medium.com/@baljitKaurGoraya/characters-in-swift-programming-language-137a201353d6)
