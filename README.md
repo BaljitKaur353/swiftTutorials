@@ -58,3 +58,5 @@ Check the following links:
 [Swift Strings](https://medium.com/@baljitKaurGoraya/strings-in-swift-programming-language-f9bae3f34db7)
 
 [Swift Characters](https://medium.com/@baljitKaurGoraya/characters-in-swift-programming-language-137a201353d6)
+
+[Swift Arrays](https://medium.com/@baljitKaurGoraya/arrays-in-swift-programming-language-14463b683a7c)
