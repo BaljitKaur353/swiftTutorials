@@ -60,3 +60,5 @@ Check the following links:
 [Swift Characters](https://medium.com/@baljitKaurGoraya/characters-in-swift-programming-language-137a201353d6)
 
 [Swift Arrays](https://medium.com/@baljitKaurGoraya/arrays-in-swift-programming-language-14463b683a7c)
+
+[Swift Sets](https://medium.com/@baljitKaurGoraya/sets-in-swift-programming-language-67203be37d44)
