@@ -62,3 +62,5 @@ Check the following links:
 [Swift Arrays](https://medium.com/@baljitKaurGoraya/arrays-in-swift-programming-language-14463b683a7c)
 
 [Swift Sets](https://medium.com/@baljitKaurGoraya/sets-in-swift-programming-language-67203be37d44)
+
+[Swift Dictionaries](https://medium.com/@baljitKaurGoraya/dictionaries-in-swift-programming-language-ede6a3850131)
