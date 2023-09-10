@@ -64,3 +64,5 @@ Check the following links:
 [Swift Sets](https://medium.com/@baljitKaurGoraya/sets-in-swift-programming-language-67203be37d44)
 
 [Swift Dictionaries](https://medium.com/@baljitKaurGoraya/dictionaries-in-swift-programming-language-ede6a3850131)
+
+[Swift Closures](https://medium.com/swiftable/a-guide-to-closures-in-swift-368e6aca6d71)
