@@ -70,3 +70,5 @@ Check the following links:
 [Swift Functions](https://medium.com/@baljitKaurGoraya/a-guide-to-functions-in-swift-ae9c74b35817)
 
 [Swift Higher-order Functions](https://medium.com/@baljitKaurGoraya/understand-swifts-higher-order-functions-9dc97b1d7a9a)
+
+[Swift Enumeration](https://medium.com/@baljitKaurGoraya/a-guide-to-enumeration-in-swift-caa326c430e8)
