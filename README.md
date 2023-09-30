@@ -74,3 +74,5 @@ Check the following links:
 [Swift Enumeration](https://medium.com/@baljitKaurGoraya/a-guide-to-enumeration-in-swift-caa326c430e8)
 
 [Swift Structure](https://medium.com/@baljitKaurGoraya/a-brief-guide-to-structure-in-swift-d3f94d78b749)
+
+[Swift Classes](https://medium.com/@baljitKaurGoraya/explore-class-in-swift-in-depth-4cd8487caf2b)
