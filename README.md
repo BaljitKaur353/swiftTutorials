@@ -76,3 +76,5 @@ Check the following links:
 [Swift Structure](https://medium.com/@baljitKaurGoraya/a-brief-guide-to-structure-in-swift-d3f94d78b749)
 
 [Swift Classes](https://medium.com/@baljitKaurGoraya/explore-class-in-swift-in-depth-4cd8487caf2b)
+
+[Swift Typealias](https://medium.com/@baljitKaurGoraya/a-guide-to-typealias-in-swift-d3605cf8205a)
