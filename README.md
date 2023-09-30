@@ -78,3 +78,5 @@ Check the following links:
 [Swift Classes](https://medium.com/@baljitKaurGoraya/explore-class-in-swift-in-depth-4cd8487caf2b)
 
 [Swift Typealias](https://medium.com/@baljitKaurGoraya/a-guide-to-typealias-in-swift-d3605cf8205a)
+
+[Swift Properties](https://medium.com/@baljitKaurGoraya/what-are-properties-in-swift-bc4f4735f913)
