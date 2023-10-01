@@ -80,3 +80,5 @@ Check the following links:
 [Swift Typealias](https://medium.com/@baljitKaurGoraya/a-guide-to-typealias-in-swift-d3605cf8205a)
 
 [Swift Properties](https://medium.com/@baljitKaurGoraya/what-are-properties-in-swift-bc4f4735f913)
+
+[Swift Methods](https://medium.com/@baljitKaurGoraya/a-basic-guide-to-method-in-swift-8bb969abdeac)
