@@ -82,3 +82,5 @@ Check the following links:
 [Swift Properties](https://medium.com/@baljitKaurGoraya/what-are-properties-in-swift-bc4f4735f913)
 
 [Swift Methods](https://medium.com/@baljitKaurGoraya/a-basic-guide-to-method-in-swift-8bb969abdeac)
+
+[Swift Subscripts](https://medium.com/swiftfy/a-guide-to-subscripts-in-swift-68f1628cce97)
