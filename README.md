@@ -84,3 +84,5 @@ Check the following links:
 [Swift Methods](https://medium.com/@baljitKaurGoraya/a-basic-guide-to-method-in-swift-8bb969abdeac)
 
 [Swift Subscripts](https://medium.com/swiftfy/a-guide-to-subscripts-in-swift-68f1628cce97)
+
+[Swift Inheritance](https://medium.com/swiftfy/inheritance-in-swift-7b676bcefc17)
