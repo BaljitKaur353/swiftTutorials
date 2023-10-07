@@ -86,3 +86,5 @@ Check the following links:
 [Swift Subscripts](https://medium.com/swiftfy/a-guide-to-subscripts-in-swift-68f1628cce97)
 
 [Swift Inheritance](https://medium.com/swiftfy/inheritance-in-swift-7b676bcefc17)
+
+[Swift Initialization](https://medium.com/swiftfy/a-guide-to-initialization-in-swift-5190bd7bfedf)
