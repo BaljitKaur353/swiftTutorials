@@ -92,3 +92,5 @@ Check the following links:
 [Swift Deinitialization](https://medium.com/swiftfy/a-guide-to-initialization-in-swift-5190bd7bfedf)
 
 [Swift ARC](https://medium.com/@baljitKaurGoraya/how-arc-works-in-swift-7601a73a3ae2)
+
+[Swift Typecasting](https://medium.com/swiftfy/typecasting-in-swift-tips-tricks-b86962d6eafb)
