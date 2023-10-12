@@ -94,3 +94,5 @@ Check the following links:
 [Swift ARC](https://medium.com/@baljitKaurGoraya/how-arc-works-in-swift-7601a73a3ae2)
 
 [Swift Typecasting](https://medium.com/swiftfy/typecasting-in-swift-tips-tricks-b86962d6eafb)
+
+[Swift Extensions](https://medium.com/swiftfy/extensions-in-swift-programming-language-f897d0175e06)
