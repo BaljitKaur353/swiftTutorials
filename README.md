@@ -96,3 +96,5 @@ Check the following links:
 [Swift Typecasting](https://medium.com/swiftfy/typecasting-in-swift-tips-tricks-b86962d6eafb)
 
 [Swift Extensions](https://medium.com/swiftfy/extensions-in-swift-programming-language-f897d0175e06)
+
+[Swit Generics](https://medium.com/@baljitKaurGoraya/power-of-swift-generics-c3b4cb3b1029)
