@@ -98,3 +98,5 @@ Check the following links:
 [Swift Extensions](https://medium.com/swiftfy/extensions-in-swift-programming-language-f897d0175e06)
 
 [Swit Generics](https://medium.com/@baljitKaurGoraya/power-of-swift-generics-c3b4cb3b1029)
+
+[Swift vs Objective C](https://medium.com/swiftfy/difference-between-objective-c-and-swift-e53369ee2d4f)
