@@ -100,3 +100,5 @@ Check the following links:
 [Swit Generics](https://medium.com/@baljitKaurGoraya/power-of-swift-generics-c3b4cb3b1029)
 
 [Swift vs Objective C](https://medium.com/swiftfy/difference-between-objective-c-and-swift-e53369ee2d4f)
+
+[Swift Access Controls](https://medium.com/swiftfy/swift-access-control-with-example-7d6e17fcc117)
