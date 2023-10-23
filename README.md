@@ -102,3 +102,5 @@ Check the following links:
 [Swift vs Objective C](https://medium.com/swiftfy/difference-between-objective-c-and-swift-e53369ee2d4f)
 
 [Swift Access Controls](https://medium.com/swiftfy/swift-access-control-with-example-7d6e17fcc117)
+
+[Swift Protocols](https://medium.com/swiftfy/all-about-protocols-in-swift-57acb2cab440)
