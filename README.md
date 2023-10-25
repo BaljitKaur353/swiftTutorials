@@ -104,3 +104,5 @@ Check the following links:
 [Swift Access Controls](https://medium.com/swiftfy/swift-access-control-with-example-7d6e17fcc117)
 
 [Swift Protocols](https://medium.com/swiftfy/all-about-protocols-in-swift-57acb2cab440)
+
+[Swift Functions vs Methods](https://medium.com/swiftfy/difference-between-function-and-method-in-swift-2c77ebc86379)
