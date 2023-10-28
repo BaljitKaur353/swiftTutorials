@@ -108,3 +108,5 @@ Check the following links:
 [Swift Functions vs Methods](https://medium.com/swiftfy/difference-between-function-and-method-in-swift-2c77ebc86379)
 
 [Swift inout Parameters](https://medium.com/@baljitKaurGoraya/swift-inout-parameters-ed7418ee7d00)
+
+[Swift Optional Chaining](https://medium.com/swiftfy/optional-chaining-in-swift-programming-language-f370b37c7e2a)
