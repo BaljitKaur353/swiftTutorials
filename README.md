@@ -110,3 +110,5 @@ Check the following links:
 [Swift inout Parameters](https://medium.com/@baljitKaurGoraya/swift-inout-parameters-ed7418ee7d00)
 
 [Swift Optional Chaining](https://medium.com/swiftfy/optional-chaining-in-swift-programming-language-f370b37c7e2a)
+
+[Swift Defer Statements](https://medium.com/swiftfy/using-the-defer-keyword-in-swift-128edc49ddf3)
