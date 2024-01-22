@@ -112,3 +112,5 @@ Check the following links:
 [Swift Optional Chaining](https://medium.com/swiftfy/optional-chaining-in-swift-programming-language-f370b37c7e2a)
 
 [Swift Defer Statements](https://medium.com/swiftfy/using-the-defer-keyword-in-swift-128edc49ddf3)
+
+[Difference between Swift and SwiftUI](https://medium.com/@baljitKaurGoraya/difference-between-swift-and-swift-ui-7cc9941484c5)
