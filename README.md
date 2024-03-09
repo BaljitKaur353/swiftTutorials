@@ -116,3 +116,5 @@ Check the following links:
 [Difference between Swift and SwiftUI](https://medium.com/@baljitKaurGoraya/difference-between-swift-and-swift-ui-7cc9941484c5)
 
 [Is SwiftUI easier to learn than Swift?](https://medium.com/swiftfy/is-swiftui-easier-to-learn-than-swift-50d2f9ff90a0)
+
+[Swift Size Class](https://medium.com/@baljitKaurGoraya/swift-size-class-1d537982d62f)
