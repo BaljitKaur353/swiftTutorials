@@ -118,3 +118,5 @@ Check the following links:
 [Is SwiftUI easier to learn than Swift?](https://medium.com/swiftfy/is-swiftui-easier-to-learn-than-swift-50d2f9ff90a0)
 
 [Swift Size Class](https://medium.com/@baljitKaurGoraya/swift-size-class-1d537982d62f)
+
+[Swift User Defaults](https://medium.com/@baljitKaurGoraya/user-defaults-in-swift-32cd43c6f92e)
