@@ -1,4 +1,4 @@
-# swiftTutorials
+# Swift-Tutorials
 Basics of Swift Programming Language
 
 Swift is a powerful and modern programming language developed by Apple Inc. It was introduced in 2014 and is designed to work with Apple's ecosystem, including iOS, macOS, watchOS, and tvOS. Swift is intended to be a replacement for Objective-C, offering a more concise, safe, and developer-friendly approach to software development.
