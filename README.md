@@ -120,3 +120,6 @@ Check the following links:
 [Swift Size Class](https://medium.com/@baljitKaurGoraya/swift-size-class-1d537982d62f)
 
 [Swift User Defaults](https://medium.com/@baljitKaurGoraya/user-defaults-in-swift-32cd43c6f92e)
+
+[Latest Features and Updates for Xcode and Swift](https://medium.com/swiftfy/latest-features-and-updates-for-xcode-and-swift-b758e4c8d369)
+
