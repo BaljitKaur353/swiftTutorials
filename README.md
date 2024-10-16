@@ -123,3 +123,5 @@ Check the following links:
 
 [Latest Features and Updates for Xcode and Swift](https://medium.com/swiftfy/latest-features-and-updates-for-xcode-and-swift-b758e4c8d369)
 
+[Comparing Swift Package Manager with CocoaPods and Carthage: A Quick Guide](https://medium.com/swiftfy/comparing-swift-package-manager-with-cocoapods-and-carthage-a-quick-guide-9e4f6d97e9b4)
+
