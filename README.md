@@ -125,3 +125,5 @@ Check the following links:
 
 [Comparing Swift Package Manager with CocoaPods and Carthage: A Quick Guide](https://medium.com/swiftfy/comparing-swift-package-manager-with-cocoapods-and-carthage-a-quick-guide-9e4f6d97e9b4)
 
+[What is GCD? How is it used?](https://medium.com/swiftfy/what-is-gcd-how-is-it-used-eefb30e5a0e4)
+
