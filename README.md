@@ -129,3 +129,5 @@ Check the following links:
 
 [Understanding Grand Central Dispatch (GCD) in Swift: Boosting Performance with Concurrency](https://medium.com/swiftfy/what-is-gcd-how-is-it-used-eefb30e5a0e4)
 
+[Simplify Push Notification Testing with the Apple Developer Push Notifications Console](https://medium.com/swiftfy/simplify-push-notification-testing-with-the-apple-developer-push-notifications-console-52eddf9b8eaa)
+
