@@ -131,3 +131,5 @@ Check the following links:
 
 [Simplify Push Notification Testing with the Apple Developer Push Notifications Console](https://medium.com/swiftfy/simplify-push-notification-testing-with-the-apple-developer-push-notifications-console-52eddf9b8eaa)
 
+[Mastering Code Quality in Swift: Tips for Clean, Maintainable, and Efficient Code](https://medium.com/swiftfy/mastering-code-quality-in-swift-tips-for-clean-maintainable-and-efficient-code-374be19ae130)
+
