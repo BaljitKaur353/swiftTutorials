@@ -133,3 +133,5 @@ Check the following links:
 
 [Mastering Code Quality in Swift: Tips for Clean, Maintainable, and Efficient Code](https://medium.com/swiftfy/mastering-code-quality-in-swift-tips-for-clean-maintainable-and-efficient-code-374be19ae130)
 
+[Understanding Significant Location in iOS: A Developer’s Guide](https://medium.com/swiftfy/understanding-significant-location-in-ios-a-developers-guide-463162753a10)
+
