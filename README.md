@@ -135,3 +135,5 @@ Check the following links:
 
 [Understanding Significant Location in iOS: A Developer’s Guide](https://medium.com/swiftfy/understanding-significant-location-in-ios-a-developers-guide-463162753a10)
 
+[Top iOS App Development Trends for 2024](https://medium.com/swiftfy/top-ios-app-development-trends-for-2024-1b7d3c6d413f)
+
