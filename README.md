@@ -139,3 +139,4 @@ Check the following links:
 
 [Swift 6 and Xcode 16: Redefining Developer Productivity](https://medium.com/@baljitKaurGoraya/swift-6-and-xcode-16-redefining-developer-productivity-d68f0bc0af31)
 
+[Building Sensitive Content Analysis in Swift for iOS Apps](https://medium.com/@baljitKaurGoraya/building-sensitive-content-analysis-in-swift-for-ios-apps-384e96803515)
