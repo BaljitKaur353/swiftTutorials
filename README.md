@@ -143,3 +143,5 @@ Check the following links:
 
 [Implementing Data Caching in iOS: Strategies for Performance Optimization](https://medium.com/@baljitKaurGoraya/implementing-data-caching-in-ios-strategies-for-performance-optimization-7117182be987)
 
+[12 Xcode Hacks Every iOS Developer Must Know](https://medium.com/swiftfy/12-xcode-hacks-every-ios-developer-must-know-8e4425caf947)
+
