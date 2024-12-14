@@ -145,3 +145,4 @@ Check the following links:
 
 [12 Xcode Hacks Every iOS Developer Must Know](https://medium.com/swiftfy/12-xcode-hacks-every-ios-developer-must-know-8e4425caf947)
 
+[How to Test Dark and Light Modes in Interface Builder (with Tips)](https://medium.com/swiftfy/how-to-test-dark-and-light-modes-in-interface-builder-with-tips-cf1835829cf5)
