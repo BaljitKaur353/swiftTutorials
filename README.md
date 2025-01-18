@@ -148,3 +148,5 @@ Check the following links:
 [How to Test Dark and Light Modes in Interface Builder (with Tips)](https://medium.com/swiftfy/how-to-test-dark-and-light-modes-in-interface-builder-with-tips-cf1835829cf5)
 
 [iOS App Security: Keychain Usage and Best Practices for Securing User Data](https://medium.com/@baljitKaurGoraya/ios-app-security-keychain-usage-and-best-practices-for-securing-user-data-61b41bafa35e)
+
+[Breaking Free from Retain Cycles: Managing Escaping Closures in Swift](https://medium.com/swiftfy/breaking-free-from-retain-cycles-managing-escaping-closures-in-swift-d73690e76c19)
