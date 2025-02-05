@@ -152,3 +152,5 @@ Check the following links:
 [Breaking Free from Retain Cycles: Managing Escaping Closures in Swift](https://medium.com/swiftfy/breaking-free-from-retain-cycles-managing-escaping-closures-in-swift-d73690e76c19)
 
 [Apple Just Wrecked Their Control Panel — What You Need to Know](https://medium.com/swiftfy/breaking-free-from-retain-cycles-managing-escaping-closures-in-swift-d73690e76c19)
+
+[Understanding as, as!, and as? in Swift](https://medium.com/swiftfy/understanding-as-as-and-as-in-swift-ba2f1d79cd6e)
