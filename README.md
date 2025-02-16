@@ -154,3 +154,5 @@ Check the following links:
 [Apple Just Wrecked Their Control Panel — What You Need to Know](https://medium.com/swiftfy/breaking-free-from-retain-cycles-managing-escaping-closures-in-swift-d73690e76c19)
 
 [Understanding as, as!, and as? in Swift](https://medium.com/swiftfy/understanding-as-as-and-as-in-swift-ba2f1d79cd6e)
+
+[Scroll to Top When Screen Appears in Swift](https://medium.com/swiftfy/scroll-to-top-when-screen-appears-in-swift-d0c6a82e5d5f)
