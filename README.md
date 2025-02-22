@@ -155,4 +155,9 @@ Check the following links:
 
 [Understanding as, as!, and as? in Swift](https://medium.com/swiftfy/understanding-as-as-and-as-in-swift-ba2f1d79cd6e)
 
-[Scroll to Top When Screen Appears in Swift](https://medium.com/swiftfy/scroll-to-top-when-screen-appears-in-swift-d0c6a82e5d5f)
+[Scroll to Top When Screen Appears in Swift](https://medium.com/swiftfy/scroll-to-top-when-screen-appears-in-swift-d0c6a82e5d5f
+
+[8 Modern Dev Tools to 100X Your Productivity](https://medium.com/swiftfy/8-modern-dev-tools-to-100x-your-productivity-efbac7d45142)
+
+[Top 10 Swift Libraries Every Developer Should Know](https://medium.com/@baljitKaurGoraya/top-10-swift-libraries-every-developer-should-know-ae61841a8921)
+
