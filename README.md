@@ -161,3 +161,4 @@ Check the following links:
 
 [Top 10 Swift Libraries Every Developer Should Know](https://medium.com/@baljitKaurGoraya/top-10-swift-libraries-every-developer-should-know-ae61841a8921)
 
+[How Senior Programmers Write Code](https://medium.com/@baljitKaurGoraya/how-senior-programmers-write-code-142a3f327190)
