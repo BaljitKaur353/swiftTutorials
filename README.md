@@ -162,3 +162,6 @@ Check the following links:
 [Top 10 Swift Libraries Every Developer Should Know](https://medium.com/@baljitKaurGoraya/top-10-swift-libraries-every-developer-should-know-ae61841a8921)
 
 [How Senior Programmers Write Code](https://medium.com/@baljitKaurGoraya/how-senior-programmers-write-code-142a3f327190)
+
+[Writing Swift Like Apple: Best Practices for Clean and Elegant Code](https://medium.com/swiftfy/writing-swift-like-apple-best-practices-for-clean-and-elegant-code-943b9b1e6594)
+
