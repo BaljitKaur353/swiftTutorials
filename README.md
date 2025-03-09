@@ -168,3 +168,5 @@ Check the following links:
 [Implementing Promo Codes in iOS Using In-App Purchases (IAP)](https://medium.com/@baljitKaurGoraya/implementing-promo-codes-in-ios-using-in-app-purchases-iap-71c85c65adca)
 
 [11 Essential Chrome Extensions You Should Use](https://medium.com/swiftfy/11-essential-chrome-extensions-you-should-use-80ec7b60e9ea)
+
+[Clean Your Dead Code with Periphery 3.0 on iOS](https://medium.com/swiftfy/clean-your-dead-code-with-periphery-3-0-on-ios-dc6031aa50eb)
