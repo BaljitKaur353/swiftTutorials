@@ -166,3 +166,5 @@ Check the following links:
 [Writing Swift Like Apple: Best Practices for Clean and Elegant Code](https://medium.com/swiftfy/writing-swift-like-apple-best-practices-for-clean-and-elegant-code-943b9b1e6594)
 
 [Implementing Promo Codes in iOS Using In-App Purchases (IAP)](https://medium.com/@baljitKaurGoraya/implementing-promo-codes-in-ios-using-in-app-purchases-iap-71c85c65adca)
+
+[11 Essential Chrome Extensions You Should Use](https://medium.com/swiftfy/11-essential-chrome-extensions-you-should-use-80ec7b60e9ea)
