@@ -180,3 +180,5 @@ Check the following links:
 [To Be a Great Software Developer, You Need a System](https://medium.com/swiftfy/to-be-a-great-software-developer-you-need-a-system-56cb6919449f)
 
 [Modern iOS Architecture Patterns and Best Practices](https://medium.com/swiftfy/modern-ios-architecture-patterns-and-best-practices-e1ae397b0603)
+
+[3 Lessons from the Smartest Developers I’ve Worked With](https://medium.com/journey-to-greatness/3-lessons-from-the-smartest-developers-ive-worked-with-e519c796c550)
