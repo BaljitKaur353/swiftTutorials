@@ -170,3 +170,13 @@ Check the following links:
 [11 Essential Chrome Extensions You Should Use](https://medium.com/swiftfy/11-essential-chrome-extensions-you-should-use-80ec7b60e9ea)
 
 [Clean Your Dead Code with Periphery 3.0 on iOS](https://medium.com/swiftfy/clean-your-dead-code-with-periphery-3-0-on-ios-dc6031aa50eb)
+
+[The Future of Concurrent Code in Swift](https://medium.com/@baljitKaurGoraya/the-future-of-concurrent-code-in-swift-5bd3b133e1e0)
+
+[Stop Watching Tutorials, Learn Programming Effectively](https://medium.com/swiftfy/stop-watching-tutorials-learn-programming-effectively-fad491400f5d)
+
+[5 Essential Tools Every iOS Developer Should Use](https://medium.com/swiftfy/5-essential-tools-every-ios-developer-should-use-f1627e242983)
+
+[To Be a Great Software Developer, You Need a System](https://medium.com/swiftfy/to-be-a-great-software-developer-you-need-a-system-56cb6919449f)
+
+[Modern iOS Architecture Patterns and Best Practices](https://medium.com/swiftfy/modern-ios-architecture-patterns-and-best-practices-e1ae397b0603)
