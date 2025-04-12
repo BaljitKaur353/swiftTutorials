@@ -182,3 +182,29 @@ Check the following links:
 [Modern iOS Architecture Patterns and Best Practices](https://medium.com/swiftfy/modern-ios-architecture-patterns-and-best-practices-e1ae397b0603)
 
 [3 Lessons from the Smartest Developers I’ve Worked With](https://medium.com/journey-to-greatness/3-lessons-from-the-smartest-developers-ive-worked-with-e519c796c550)
+
+[Swift 6.0 Protocol Extensions: Powerful New Tricks You Need to Know](https://medium.com/swiftfy/swift-6-0-protocol-extensions-powerful-new-tricks-you-need-to-know-2e4a8372ed2f)
+
+[Top Swift Libraries Every iOS Developer Should Know](https://medium.com/swiftfy/top-swift-libraries-every-ios-developer-should-know-fb1a48c00afd)
+
+[Mastering iOS Debugging: Essential Tips to Enhance Your Troubleshooting Skills](https://medium.com/swiftfy/mastering-ios-debugging-essential-tips-to-enhance-your-troubleshooting-skills-70993ff136e4)
+
+[Difference Between popLast() and removeLast() in Swift](https://medium.com/swiftfy/difference-between-poplast-and-removelast-in-swift-b9a3b4f8e349)
+
+[The Ultimate Guide to Using SwiftData in MVVM: A Modern Approach to Data Persistence](https://medium.com/swiftfy/the-ultimate-guide-to-using-swiftdata-in-mvvm-a-modern-approach-to-data-persistence-d8ad975b66d8)
+
+[Boost Your Xcode Workflow with Cursor AI: A Must-Have Tool for iOS Developers](https://medium.com/swiftfy/boost-your-xcode-workflow-with-cursor-ai-a-must-have-tool-for-ios-developers-59444a8eb32a)
+
+[Everything You Need to Know About WWDC 25: Apple’s Biggest Developer Event of the Year](https://medium.com/swiftfy/everything-you-need-to-know-about-wwdc-25-apples-biggest-developer-event-of-the-year-4a0bcfeb02a0)
+
+[Self vs self in Swift: Understanding the Key Differences in iOS Development](https://medium.com/swiftfy/self-vs-self-in-swift-understanding-the-key-differences-in-ios-development-1c3c9bbd6f3f)
+
+[ChatGPT for macOS: A Game-Changer for Xcode Development](https://medium.com/swiftfy/chatgpt-for-macos-a-game-changer-for-xcode-development-3cccf53d144e)
+
+[Mastering Swift Localization in 2025: A Comprehensive Guide for Multilingual Apps](https://medium.com/swiftfy/mastering-swift-localization-in-2025-a-comprehensive-guide-for-multilingual-apps-4c84fa7468e1)
+
+[Customize Xcode’s Behavior Settings to Streamline Your Workflow](https://medium.com/swiftfy/customize-xcodes-behavior-settings-to-streamline-your-workflow-e5f94488b154)
+
+[10 AI Tools That Will Save You 5 Hours Every Day](https://medium.com/swiftfy/10-ai-tools-that-will-save-you-5-hours-every-day-9ce83ef8ee56)
+
+[10 Coding Practices Every Senior Developer Swears By](https://medium.com/swiftfy/10-coding-practices-every-senior-developer-swears-by-a91eabed7afc)
