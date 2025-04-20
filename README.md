@@ -214,3 +214,5 @@ Check the following links:
 [5 Insane iOS 18 Features You’re Not Using Right](https://medium.com/swiftfy/5-insane-ios-18-features-youre-not-using-right-5e9df6b4472d)
 
 [Building High-Performance Swift Apps](https://medium.com/swiftfy/building-high-performance-swift-apps-668d1d832456)
+
+[This New IDE from Google Is an Absolute Game Changer](https://medium.com/@baljitKaurGoraya/this-new-ide-from-google-is-an-absolute-game-changer-5f8be0392124)
