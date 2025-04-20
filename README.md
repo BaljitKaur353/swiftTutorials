@@ -208,3 +208,9 @@ Check the following links:
 [10 AI Tools That Will Save You 5 Hours Every Day](https://medium.com/swiftfy/10-ai-tools-that-will-save-you-5-hours-every-day-9ce83ef8ee56)
 
 [10 Coding Practices Every Senior Developer Swears By](https://medium.com/swiftfy/10-coding-practices-every-senior-developer-swears-by-a91eabed7afc)
+
+[Why You Should Use Xcode 16 Buildable Folders Instead of Groups](https://medium.com/swiftfy/why-you-should-use-xcode-16-buildable-folders-instead-of-groups-836f047afcd6)
+
+[5 Insane iOS 18 Features You’re Not Using Right](https://medium.com/swiftfy/5-insane-ios-18-features-youre-not-using-right-5e9df6b4472d)
+
+[Building High-Performance Swift Apps](https://medium.com/swiftfy/building-high-performance-swift-apps-668d1d832456)
