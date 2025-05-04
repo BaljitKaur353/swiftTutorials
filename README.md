@@ -216,3 +216,9 @@ Check the following links:
 [Building High-Performance Swift Apps](https://medium.com/swiftfy/building-high-performance-swift-apps-668d1d832456)
 
 [This New IDE from Google Is an Absolute Game Changer](https://medium.com/@baljitKaurGoraya/this-new-ide-from-google-is-an-absolute-game-changer-5f8be0392124)
+
+[What I Learned from the “Ultimate AI Masterclass” by Vaibhav Sisinty](https://medium.com/swiftfy/what-i-learned-from-the-ultimate-ai-masterclass-by-vaibhav-sisinty-7142b1d3562a)
+
+[Apple Introduces Quantum Commit Review in Xcode 17](https://medium.com/swiftfy/apple-introduces-quantum-commit-review-in-xcode-17-4d2dc676984f)
+
+[📞 How to Detect and Handle VoIP Calls on iOS Using CallKit](https://medium.com/swiftfy/how-to-detect-and-handle-voip-calls-on-ios-using-callkit-e32dab00933c)
