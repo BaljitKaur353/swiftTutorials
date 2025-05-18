@@ -222,3 +222,5 @@ Check the following links:
 [Apple Introduces Quantum Commit Review in Xcode 17](https://medium.com/swiftfy/apple-introduces-quantum-commit-review-in-xcode-17-4d2dc676984f)
 
 [📞 How to Detect and Handle VoIP Calls on iOS Using CallKit](https://medium.com/swiftfy/how-to-detect-and-handle-voip-calls-on-ios-using-callkit-e32dab00933c)
+
+[7 Command-Line Tools That Blew My Mind (And Will Blow Yours Too!)](https://medium.com/swiftfy/7-command-line-tools-that-blew-my-mind-and-will-blow-yours-too-5cec59d4cbb7)
