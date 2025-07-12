@@ -224,3 +224,5 @@ Check the following links:
 [📞 How to Detect and Handle VoIP Calls on iOS Using CallKit](https://medium.com/swiftfy/how-to-detect-and-handle-voip-calls-on-ios-using-callkit-e32dab00933c)
 
 [7 Command-Line Tools That Blew My Mind (And Will Blow Yours Too!)](https://medium.com/swiftfy/7-command-line-tools-that-blew-my-mind-and-will-blow-yours-too-5cec59d4cbb7)
+
+[🚀 Dive into Xcode 26: Simple, Smart & Supercharged](https://medium.com/swiftfy/dive-into-xcode-26-simple-smart-supercharged-cd3f2bf33f7c)
